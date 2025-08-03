@@ -37,4 +37,4 @@ You will need a modern web browser and a **Google Gemini API Key**.
 1. **Clone the repository:**
 
    ```sh
-   git clone [https://github.com/your-username/mission-tracker.git](https://github.com/your-username/mission-tracker.git)
+   git clone [https://github.com/nivash-kumar/space-mission-tracker-tailwind/tree/main.git]
